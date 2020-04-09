@@ -1,7 +1,7 @@
-# Acorn.js Dirigible Module
+# Acorn Dirigible Module
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/ext-acornjs.svg)](https://github.com/dirigiblelabs/ext-acornjs/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/ext-acorn.svg)](https://github.com/dirigiblelabs/ext-acorn/graphs/contributors)
 
 A tiny, fast JavaScript parser written in JavaScript and packaged as a Dirigible module.
 
